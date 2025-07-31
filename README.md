@@ -4242,13 +4242,11 @@ Example Usage:
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-Copyright (c) 2023 stylarcss
+Copyright (c) 2025 stylarcss
 
 
